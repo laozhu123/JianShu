@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BaseNight">
+        <item name="BackgroundColor">@color/bg_night</item>
+        <item name="TextColor">@color/text_night</item>
+        <item name="LineColor">@color/line_night</item>
+        <item name="ActionbarColor">@color/actionbar_night</item>
+    </style>
+    <style name="Theme.setting.night" parent="BaseNight">
+    </style>
+    <style name="Theme.index.night" parent="BaseNight">
+    </style>
+
+
+</resources>
